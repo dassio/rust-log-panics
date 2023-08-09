@@ -1,6 +1,6 @@
 # rust-log-panics
-
-[![CircleCI](https://circleci.com/gh/sfackler/rust-log-panics.svg?style=shield)](https://circleci.com/gh/sfackler/rust-log-panics)
+this is a fork from [rust-log-panics](https://github.com/sfackler/rust-log-panics)
+the difference is that this crate will als print to terminal, the reason is without this, rust integration test will not failure reason.
 
 [Documentation](https://docs.rs/log-panics)
 

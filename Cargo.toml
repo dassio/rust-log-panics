@@ -1,10 +1,10 @@
 [package]
-name = "log-panics"
-version = "2.1.0"
-authors = ["Steven Fackler <sfackler@gmail.com>"]
+name = "log--print-panics"
+version = "2.1.1"
+authors = ["Steven Fackler <sfackler@gmail.com>", "Xiangbin.Li <dassio_98@163.com>"]
 license = "MIT/Apache-2.0"
-description = "A panic hook which logs panic messages rather than printing them"
-repository = "https://github.com/sfackler/rust-log-panics"
+description = "A panic hook which logs and print panic messages"
+repository = "https://github.com/dassio/rust-log-print-panics"
 readme = "README.md"
 
 [features]
