@@ -1,5 +1,5 @@
 [package]
-name = "log--print-panics"
+name = "log-print-panics"
 version = "2.1.1"
 authors = ["Steven Fackler <sfackler@gmail.com>", "Xiangbin.Li <dassio_98@163.com>"]
 license = "MIT/Apache-2.0"
